@@ -1,0 +1,10 @@
+body {
+    width: 50%;
+margin: auto;
+font-family:  sans-serif;
+line-height: 1.5;
+background: url(bg.jpg);
+color: white;
+font-size: 180%;
+
+}
